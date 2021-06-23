@@ -9,7 +9,7 @@ print(""" \33[97;1m
  / _\/ _` | |/ __/ _ \| '_ \ \ / / |/ _ \ \ /\ / / _ \ '__|
 / / | (_| | | (_| (_) | | | \ V /| |  __/\ V  V /  __/ |   
 \/   \__,_|_|\___\___/|_| |_|\_/ |_|\___| \_/\_/ \___|_|   
-                                                                                                     \33[95;1mCreator: ProponentHacker
+                                                                                                     \33[95;1mCreator: loctang
                                                                                               \33[95;1mCredits: WeebSec Crew for 1 function.
                                                                                     \33[95;1mCheck out my Instagram: https://instagram.com/loctang
 \33[91;1mFalconViewer is made to find the admin panel/control panel of a website.
