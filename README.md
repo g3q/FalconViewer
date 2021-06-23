@@ -4,6 +4,6 @@ Before you use:
 
 # Installation/Usage
 * pip3 install -r requirements.txt
-* git clone https://github.com/ProponentHacker/FalconViewer
+* git clone https://github.com/Ioctang/FalconViewer
 * cd FalconViewer
 * python3 FalconViewer.py
